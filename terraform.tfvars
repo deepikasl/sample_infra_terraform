@@ -1,0 +1,8 @@
+aws_region = "your_aws_region"
+aws_access_key = "your_aws_access_key"
+aws_secret_key = "your_aws_secret_key"
+instance_type = "your_instance_type"
+key_name = "aws-ssh-key"
+key_file_name = "aws-ssh-key.pem"
+instance_name = "terraform-test-instance"
+subnet_id = "your_subnet_id"
